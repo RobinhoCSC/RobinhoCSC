@@ -1,7 +1,7 @@
 # Sobre mim
 
 - 👋  Oi meu nome e @RobinhoCSC, mas conhecido também como Lucas, moro na região metropolitana de Curitiba, e atualmente estou estudando no Colégio Mário Braga.
-- :+1: Meu e-mail de contato e lucas.gabrielsilverioda.cruz@escola.pr.gov.br, para quando quiser entrar em contato comigo.
+- :+1: Meu e-mail de contato e [email](lucas.gabrielsilverioda.cruz@escola.pr.gov.br), para quando quiser entrar em contato comigo.
 - 👀  Eu estou interessado em aprender a programar novas linguagens e quero ter total conhecimento.
 - 🌱  Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
 - 💞️  Atualmente estou solteiro mas não disponível.
