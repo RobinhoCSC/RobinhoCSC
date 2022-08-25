@@ -13,6 +13,11 @@
 
 - ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
+
+- ![Programação](https://tecnomais.net/wp-content/uploads/2022/03/O-que-e-Hacker-768x384.png.webp)
+
+
+
 <!---
 RobinhoCSC/RobinhoCSC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
